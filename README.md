@@ -6,8 +6,11 @@ A curated set of notebooks from my Coursera learning journey and personal ML exp
 
 📂 Regression/
 │ ├── Simple-Linear-Regression.ipynb
+
 │ ├── Mulitple-Linear-Regression.ipynb
+
 │ └── Logistic_Regression.ipynb
+
 📂 Classification/
 📜 README.md
 
