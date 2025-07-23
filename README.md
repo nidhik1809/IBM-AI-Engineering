@@ -5,6 +5,7 @@ A curated set of notebooks from my Coursera learning journey and personal ML exp
 ## 📁 Structure
 
 📂 Regression/
+
 │ ├── Simple-Linear-Regression.ipynb
 
 │ ├── Mulitple-Linear-Regression.ipynb
@@ -12,6 +13,7 @@ A curated set of notebooks from my Coursera learning journey and personal ML exp
 │ └── Logistic_Regression.ipynb
 
 📂 Classification/
+
 📜 README.md
 
 ## ✅ Latest Updates
