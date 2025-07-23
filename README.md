@@ -12,9 +12,6 @@ Organized collection of machine learning notebooks from my Coursera learning jou
 
 └── 📜 README.md → You are here!
 
-yaml
-Copy
-Edit
 
 ## ✅ Latest Updates
 
