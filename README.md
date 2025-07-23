@@ -5,8 +5,11 @@ Organized collection of machine learning notebooks from my Coursera learning jou
 ## 📁 Directory Structure
 
 📦 Machine-Learning-Practice/
+
 ├── 📂 Regression/ → Linear regression models and experiments
+
 ├── 📂 Classification/ → Classification models (OvA, OvO, Logistic Regression, etc.)
+
 └── 📜 README.md → You are here!
 
 yaml
